@@ -24,8 +24,8 @@
 <br>
 
 
-- 🔭 I’m currently working on Reactjs
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently working on Reactjs/ Nodejs
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with MERN
 - 📫 How to reach me: [Twitter - @Smit_Patel90](https://twitter.com/Smit_Patel90)
