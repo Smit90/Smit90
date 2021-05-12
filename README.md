@@ -1,5 +1,6 @@
-### Hi, I'm Smit Patel
-
+<h1 align="center">
+Smit Patel
+</h1>
 
 <a href="https://twitter.com/Smit_Patel90">
   <img align="left" alt="Smit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -55,9 +56,25 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smit90&show_icons=true&theme=tokyonight&line_height=27" alt="Smit's github stats"/>
 </a>
 
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/Smit90/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Smit90&theme=blue-green"/>
+  </a>
+</p>
+
+## 🔥 Profile Trophy 🔥
+
+<p align="center">
+  <a href="https://github.com/Smit90">
+    <img src="https://github-profile-trophy.vercel.app/?username=Smit90&theme=juicyfresh&no-bg=true&margin-w=15"/>
+  </a>
+</p>
+
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by ⭐ some of the repositories!
 
 </div>
 
