@@ -13,7 +13,7 @@ Hi, I'm Smit Patel 🧍
 [![Twitter: Smit_Patel90](https://img.shields.io/twitter/follow/Smit_Patel90?style=social)](https://twitter.com/Smit_Patel90)
 [![Linkedin: smit-patel90](https://img.shields.io/badge/-SmitPatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smit-patel90/)](https://www.linkedin.com/in/smit-patel90/)
 [![GitHub Smit90](https://img.shields.io/github/followers/Smit90?label=follow&style=social)](https://github.com/Smit90)
-[![website](https://img.shields.io/badge/PortfolioWebsite-SmitPatel-2648ff?style=flat-square&logo=google-chrome)](https://smitpatel-portfolio.herokuapp.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-SmitPatel-2648ff?style=flat-square&logo=google-chrome)](https://smit-patel.netlify.app/)
 
 ### 🛠 &nbsp;Tech Stack
 
